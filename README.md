@@ -1,6 +1,8 @@
 PySimpleSOAP / soap2py
 ======================
 
+[![Join the chat at https://gitter.im/dcassiano/pysimplesoap](https://badges.gitter.im/dcassiano/pysimplesoap.svg)](https://gitter.im/dcassiano/pysimplesoap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Python simple and lightweight SOAP library for client and server webservices interfaces, aimed to be as small and easy as possible, supporting most common functionality.
 Initially it was inspired by [PHP Soap Extension](http://php.net/manual/en/book.soap.php) (mimicking its functionality, simplicity and ease of use), with many advanced features added.
 
